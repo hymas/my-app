@@ -3,6 +3,7 @@
 pipeline {
     tools {
         maven 'Maven 3.6.3'
+        openjdk 'OpenSDK 15.0.2'
     }
     agent any
     /* agent { docker { image 'maven:3.6.3' } } */
