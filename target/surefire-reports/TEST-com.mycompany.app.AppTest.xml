@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/15.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/hymas/Documents/Maven/my-app/target/surefire/surefirebooter17750134420325221502.jar /Users/hymas/Documents/Maven/my-app/target/surefire 2021-03-27T20-41-37_982-jvmRun1 surefire8809852946771163424tmp surefire_010752171585125674661tmp"/>
+    <property name="sun.java.command" value="/Users/hymas/Documents/Maven/my-app/target/surefire/surefirebooter4469448758394639557.jar /Users/hymas/Documents/Maven/my-app/target/surefire 2021-03-28T06-19-06_199-jvmRun1 surefire1513933396627304291tmp surefire_04152959974121579371tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/hymas/Documents/Maven/my-app/target/test-classes:/Users/hymas/Documents/Maven/my-app/target/classes:/Users/hymas/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/hymas/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/hymas/Documents/Maven/my-app/target/surefire/surefirebooter17750134420325221502.jar"/>
+    <property name="surefire.real.class.path" value="/Users/hymas/Documents/Maven/my-app/target/surefire/surefirebooter4469448758394639557.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="15.0.2+7"/>
